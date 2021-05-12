@@ -8,6 +8,10 @@ function validateDto(ajvValidate) {
       // that's why the reference needs to be copied in the same execution
       // block. Note that Node is single-threaded and you do not have
       // concurrency
+      // in this simple example it would work without copying
+      // simply because we are directly terminating the request with
+      // res.status(400).json(...)
+      // but in general copying the errors reference is crucial
       const errors = ajvValidate.errors;
       res.status(400).json(errors);
     }
