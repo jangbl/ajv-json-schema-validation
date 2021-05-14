@@ -1,12 +1,12 @@
 # Node Ajv.js tutorial
 
-This tutorial demonstrates how to use the [Ajv.js JSON schema validator library](https://pdfkit.org/) to validate incoming request payloads by making use of the corss-platform [JSON-Schema](https://json-schema.org/)
+This tutorial demonstrates how to use the [Ajv.js JSON schema validator library](ajv.js.org) to validate incoming request payloads by making use of the corss-platform [JSON-Schema](https://json-schema.org/)
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-This repository is contains the code for the [Node Ajv.js video tutorial](https://www.youtube.com/watch?v=A5YiqaQbsyI)
+This repository is contains the code for the [Node Ajv.js video tutorial](https://www.youtube.com/watch?v=9Pc8LGN4uug)
 
-[![Node.js Ajv tutorial.png)](https://www.youtube.com/watch?v=A5YiqaQbsyI)
+[![Node Ajv JSON schema validation tutorial](images/ajv-json-schema-validation.png)](https://www.youtube.com/watch?v=9Pc8LGN4uug)
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
