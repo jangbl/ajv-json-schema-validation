@@ -1,6 +1,6 @@
 # Node Ajv.js tutorial
 
-This tutorial demonstrates how to use the [Ajv.js JSON schema validator library](ajv.js.org) to validate incoming request payloads by making use of the corss-platform [JSON-Schema](https://json-schema.org/)
+This tutorial demonstrates how to use the [Ajv.js JSON schema validator library](ajv.js.org) to validate incoming request payloads by making use of the cross-platform [JSON-Schema](https://json-schema.org/)
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
